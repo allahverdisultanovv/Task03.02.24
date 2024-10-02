@@ -1,0 +1,14 @@
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\SingleOrCompound\bin\Debug\net6.0\SingleOrCompound.exe
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\SingleOrCompound\bin\Debug\net6.0\SingleOrCompound.deps.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\SingleOrCompound\bin\Debug\net6.0\SingleOrCompound.runtimeconfig.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\SingleOrCompound\bin\Debug\net6.0\SingleOrCompound.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\SingleOrCompound\bin\Debug\net6.0\SingleOrCompound.pdb
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\SingleOrCompound\obj\Debug\net6.0\SingleOrCompound.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\SingleOrCompound\obj\Debug\net6.0\SingleOrCompound.AssemblyInfoInputs.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\SingleOrCompound\obj\Debug\net6.0\SingleOrCompound.AssemblyInfo.cs
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\SingleOrCompound\obj\Debug\net6.0\SingleOrCompound.csproj.CoreCompileInputs.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\SingleOrCompound\obj\Debug\net6.0\SingleOrCompound.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\SingleOrCompound\obj\Debug\net6.0\refint\SingleOrCompound.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\SingleOrCompound\obj\Debug\net6.0\SingleOrCompound.pdb
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\SingleOrCompound\obj\Debug\net6.0\SingleOrCompound.genruntimeconfig.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\SingleOrCompound\obj\Debug\net6.0\ref\SingleOrCompound.dll

@@ -1,0 +1,14 @@
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\IkininDereceleri\bin\Debug\net6.0\IkininDereceleri.exe
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\IkininDereceleri\bin\Debug\net6.0\IkininDereceleri.deps.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\IkininDereceleri\bin\Debug\net6.0\IkininDereceleri.runtimeconfig.json
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\IkininDereceleri\bin\Debug\net6.0\IkininDereceleri.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\IkininDereceleri\bin\Debug\net6.0\IkininDereceleri.pdb
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\IkininDereceleri\obj\Debug\net6.0\IkininDereceleri.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\IkininDereceleri\obj\Debug\net6.0\IkininDereceleri.AssemblyInfoInputs.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\IkininDereceleri\obj\Debug\net6.0\IkininDereceleri.AssemblyInfo.cs
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\IkininDereceleri\obj\Debug\net6.0\IkininDereceleri.csproj.CoreCompileInputs.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\IkininDereceleri\obj\Debug\net6.0\IkininDereceleri.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\IkininDereceleri\obj\Debug\net6.0\refint\IkininDereceleri.dll
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\IkininDereceleri\obj\Debug\net6.0\IkininDereceleri.pdb
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\IkininDereceleri\obj\Debug\net6.0\IkininDereceleri.genruntimeconfig.cache
+C:\Users\Allahverdi\Desktop\Code\BackEnd\C#\Task03.10.24\IkininDereceleri\obj\Debug\net6.0\ref\IkininDereceleri.dll
